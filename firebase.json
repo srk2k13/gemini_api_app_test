@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "gemini-api-app-746e7",
+          "configurations": {
+            "ios": "1:402310869017:ios:bddc79b53a5164761a3a88",
+            "macos": "1:402310869017:ios:bddc79b53a5164761a3a88",
+            "web": "1:402310869017:web:ee17300c82dad2c01a3a88",
+            "windows": "1:402310869017:web:d29355dafad788e91a3a88"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}
