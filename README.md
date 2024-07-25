@@ -4,7 +4,7 @@ This a flutter web application which  you can run on your chrome or edge browser
 
 ## Getting Started
 
-After Extracting the zipped folders, put all the unzipped folders and files in my repository into a new folder and name it like gemi_api_app_test etc.
+After Extracting the zipped folders, put all the unzipped folders and files in my repository into a new folder and name it like gemini_api_app_test etc.
 
 Run this application on android Studio IDE or  V S Code etc in the following way 
 
